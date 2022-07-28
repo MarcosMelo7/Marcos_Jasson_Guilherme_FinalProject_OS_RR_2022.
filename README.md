@@ -2,4 +2,4 @@
 
 
 <br>
-O projeto tem como intuito a criação de um cliente e um servidor de telnet, ele tem que: Passar a entrada e saída através de um soquete TCP e compactar a comunicação entre o cliente e o servidor.
+O projeto tem o objetivo de criar um cliente e um servidor de telnet, ele tem que: Passar a entrada e saída através de um soquete TCP e compactar a comunicação entre o cliente e o servidor.

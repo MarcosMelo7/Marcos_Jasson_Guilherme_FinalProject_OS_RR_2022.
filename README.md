@@ -12,3 +12,10 @@ O projeto tem o objetivo de criar um cliente e um servidor de telnet, ele tem qu
 ##  🐱‍💻 Comunicação comprimida/compactada
 
 * A compressão de dados é o ato de reduzir o espaço ocupado por dados num determinado dispositivo. Essa operação é realizada através de diversos algoritmos de compressão, reduzindo a quantidade de Bytes para representar um dado, sendo esse dado uma imagem, um texto, ou um arquivo qualquer.
+
+## Comandos 
+
+* LOG: A opção --log deve registrar os dados de saída após a compactação e a prédescompactação de dados recebidos;
+* COMPRESS: Vai ativar a compactação (de todo o tráfego em ambas as direções);
+* ZLIB: O ZLIB não é bem um comando, é uma biblioteca que contém a compressão e a documentação necessária;
+* PORT: Que serve para especificar a porta que vai ser aberta;

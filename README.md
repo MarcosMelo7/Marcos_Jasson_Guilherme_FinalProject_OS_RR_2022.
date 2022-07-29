@@ -18,4 +18,4 @@ O projeto tem o objetivo de criar um cliente e um servidor de telnet, ele tem qu
 * LOG: A opção --log deve registrar os dados de saída após a compactação e a prédescompactação de dados recebidos;
 * COMPRESS: Vai ativar a compactação (de todo o tráfego em ambas as direções);
 * ZLIB: O ZLIB não é bem um comando, é uma biblioteca que contém a compressão e a documentação necessária;
-* PORT: Que serve para especificar a porta que vai ser aberta;
+* PORT: Serve para especificar a porta que vai ser aberta;
